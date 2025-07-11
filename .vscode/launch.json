@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SentenceAnalyzer",
+            "request": "launch",
+            "mainClass": "SentenceAnalyzer",
+            "projectName": "functions_4c13dd4c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
